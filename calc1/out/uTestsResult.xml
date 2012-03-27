@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\user\Documents\Visual Studio 2010\Projects\calc1\calc1\bin\calc1.exe" total="6" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2012-02-13" time="22:31:43">
+  <environment nunit-version="2.5.10.11092" clr-version="2.0.50727.5420" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Users\user\Documents\Visual Studio 2010\Projects\calc1" machine-name="ACER" user="user" user-domain="ACER" />
+  <culture-info current-culture="ru-RU" current-uiculture="ru-RU" />
+  <test-suite type="Assembly" name="C:\Users\user\Documents\Visual Studio 2010\Projects\calc1\calc1\bin\calc1.exe" executed="True" result="Success" success="True" time="0.052" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="calc1" executed="True" result="Success" success="True" time="0.046" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="Calc1Test" executed="True" result="Success" success="True" time="0.043" asserts="0">
+            <results>
+              <test-case name="calc1.Calc1Test.CalcDivNullTest" executed="True" result="Success" success="True" time="0.012" asserts="0" />
+              <test-case name="calc1.Calc1Test.CalcDivTest" executed="True" result="Success" success="True" time="0.009" asserts="1" />
+              <test-case name="calc1.Calc1Test.CalcMulTest" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="calc1.Calc1Test.CalcSubTest" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="calc1.Calc1Test.CalcSumTest" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="calc1.Calc1Test.CalcWrongOperandTest" executed="True" result="Success" success="True" time="0.000" asserts="0" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

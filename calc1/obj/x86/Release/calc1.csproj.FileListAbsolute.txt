@@ -1,0 +1,15 @@
+C:\Users\user\Documents\Visual Studio 2010\Projects\calc1\calc1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\calc1\calc1\obj\x86\Release\calc1.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\calc1\calc1\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\user\Documents\Visual Studio 2010\Projects\calc1\calc1\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\user\Documents\Visual Studio 2010\Projects\calc1\bin\calc1.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\calc1\bin\calc1.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\calc1\calc1\obj\x86\Release\calc1.Form1.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\calc1\calc1\obj\x86\Release\calc1.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\calc1\calc1\obj\x86\Release\calc1.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\calc1\calc1\calc1\bin\calc1.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\calc1\calc1\calc1\bin\calc1.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\calc1\calc1\calc1\bin\nunit.framework.dll
+C:\Users\user\Documents\Visual Studio 2010\Projects\calc1\calc1\bin\calc1.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\calc1\calc1\bin\calc1.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\calc1\calc1\bin\nunit.framework.dll
