@@ -6,7 +6,6 @@
 	  <target name="CI">
 		<call target="clear" />
 		<call target="build" />
-		<call target="Test" />
 	  </target>
 	  <target name="clear">
 		<delete file="calc1\bin\calc1.exe" />
