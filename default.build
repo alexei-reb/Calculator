@@ -3,12 +3,14 @@
 	  <description>Calculator</description>
 	  <property name="debug" value="true" overwrite="false" />
 	  <property name="Solution.Filename" value="calc1\calc1.csproj"/>
+	  <property name="teamcity.dotnet.nant.nunit2.platform" value="x64" />
 	  <target name="CI">
 		<call target="clear" />
 		<call target="build" />
+		<call target="Test" />
 	  </target>
 	  <target name="clear">
-		<delete file="bin\calc1.exe" />
+		<delete file="calc1\bin\calc1.exe" />
 	  </target>
 	  <target name="build">
 	   <msbuild project="${Solution.Filename}">
@@ -16,4 +18,11 @@
 		<property name="OutDir" value="bin/" />
 	   </msbuild>
 	  </target>
+	  
+	<target name="Test">
+		<nunit2>
+			<formatter type="Plain" />
+			<test assemblyname="calc1\bin\calc1.exe" />
+		</nunit2>
+	</target>
   </project>
